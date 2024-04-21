@@ -1,0 +1,63 @@
+.footer_bg {
+  background: rgb(6, 50, 85);
+  padding: 80px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding-top: 10px;
+  flex-wrap: wrap;
+}
+.foot {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  line-height: 4;
+  height: 250px;
+}
+.foot h4 {
+  color: rgb(255, 255, 255);
+
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.foot h1 {
+  color: rgb(255, 255, 255);
+
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -3%;
+  text-align: left;
+}
+.search {
+  width: 342px;
+  height: 54px;
+  border-radius: 31px;
+  color: rgb(156, 156, 156);
+  padding: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0%;
+  background: rgb(255, 255, 255);
+}
+.btn_footer {
+  width: 156px;
+  height: 54px;
+  border-radius: 31px;
+  color: rgb(255, 255, 255);
+
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 106.5%;
+  letter-spacing: 0px;
+
+  text-transform: capitalize;
+  background: rgb(245, 138, 7);
+}

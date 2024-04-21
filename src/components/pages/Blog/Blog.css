@@ -1,0 +1,15 @@
+.blog {
+  background: rgb(220, 234, 245);
+  padding: 60px;
+}
+.blog_flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.blog_text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
