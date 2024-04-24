@@ -1,0 +1,42 @@
+.single {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  padding-top: 50px;
+  flex-wrap: wrap;
+}
+.single_text {
+  padding: 20px;
+  width: 600px;
+  line-height: 2;
+}
+.mode {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.ray {
+  display: flex;
+  color: rgb(145, 145, 145);
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.buy1 {
+  width: 45%;
+  background-color: rgb(228, 242, 254);
+  margin-bottom: 20px;
+}
+.lorem_text {
+  width: 600px;
+  margin-bottom: 40px;
+  display: flex;
+}
+.lorem_t {
+  width: 600px;
+}
+.loading {
+  text-align: center;
+  padding-top: 300px;
+}

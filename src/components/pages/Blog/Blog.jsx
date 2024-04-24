@@ -24,7 +24,7 @@ function Blog() {
               <p className="p_product">Learn More --></p>
             </div>
             <div className="blog_img">
-              <img src={img} alt="" width={650} />
+              <img className="rasm" src={img} alt="" width={650} />
             </div>
           </div>
         </div>

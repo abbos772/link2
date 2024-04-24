@@ -16,7 +16,7 @@ function Navbar() {
           <Link to={"/Careers"}>Careers</Link>
           <Link to={"/login"}>Services</Link>
           <Link to={"/blog"}>Blog</Link>
-          <Link to={"/login"}>Contact Us</Link>
+          <Link to={"/Products"}>Contact Us</Link>
           <button className="btn_nav">Clone project</button>
         </div>
       </div>
